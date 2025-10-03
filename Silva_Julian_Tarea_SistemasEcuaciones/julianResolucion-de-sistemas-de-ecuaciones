@@ -1,0 +1,11 @@
+=== Metodo seleccionado: Determinante 2x2 + Gauss ===
+Matriz A:
+1 4 
+3 1 
+Vector b:
+2
+2
+Determinante = -11
+x1 = 0.545455
+x2 = 0.363636
+----------------------------------------

@@ -9,7 +9,6 @@
 #include "laplace.h"
 #include "ejecutarAutomatico.h"
 using namespace std;
-// Alias locales (sin matrix.h)
 using Matrix = std::vector<std::vector<double>>;
 using Vector = std::vector<double>;
 // Función auxiliar para leer enteros positivos con validación
@@ -38,10 +37,8 @@ void ejecutarAutomatico() {
         // Lectura robusta de dimensiones
         int nEq_in = leerEnteroPositivo("Ingrese cantidad de ecuaciones: ");
         int nInc_in = leerEnteroPositivo("Ingrese cantidad de incognitas: ");
-
         size_t nEq = static_cast<size_t>(nEq_in);
         size_t nInc = static_cast<size_t>(nInc_in);
-
         if (nEq != nInc) {
             throw invalid_argument("El sistema debe ser cuadrado (mismo numero de ecuaciones e incognitas).");
         }
@@ -113,7 +110,6 @@ void ejecutarAutomatico() {
             for (size_t i = 0; i < sol.size(); i++) {
                 cout << "x" << i + 1 << " = " << sol[i] << "\n";
             }
-
             archivo << "=== Metodo seleccionado: Expansion de Laplace (n x n) ===\n";
             archivo << "Matriz A:\n";
             for (size_t i = 0; i < nEq; i++) {

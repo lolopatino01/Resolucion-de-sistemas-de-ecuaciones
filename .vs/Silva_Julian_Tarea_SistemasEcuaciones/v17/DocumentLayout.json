@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gauss.cpp",
+              "DocumentMoniker": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\gauss.cpp",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\gauss.cpp",
+              "ToolTip": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\gauss.cpp",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\gauss.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T13:19:29.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejecutarAutomatico.cpp",
+              "DocumentMoniker": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp",
+              "ToolTip": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T13:16:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "laplace.cpp",
+              "DocumentMoniker": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
+              "ToolTip": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T13:12:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp",
+              "ToolTip": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T13:12:12.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -16,7 +16,7 @@ double determinanteLaplace(const Matrix& A) {
     // Caso general: expansión por la primera fila
     double det = 0.0;
     for (size_t j = 0; j < n; j++) {
-        // Construir submatriz excluyendo fila 0 y columna j
+        // Construir submatriz excluyendo fila 0 y columna j 
         Matrix sub(n - 1, vector<double>(n - 1));
         for (size_t r = 1; r < n; r++) {
             size_t colSub = 0;

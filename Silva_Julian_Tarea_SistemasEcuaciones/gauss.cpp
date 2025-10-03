@@ -8,7 +8,6 @@ Vector resolverGauss(Matrix A, Vector b) {
     if (A.empty() || A[0].size() != n || b.size() != n) {
         throw std::invalid_argument("La matriz no es cuadrada o el vector no coincide en tamaño.");
     }
-
     // Eliminación hacia adelante
     for (size_t k = 0; k < n; ++k) {
         if (std::fabs(A[k][k]) < EPS) {
@@ -22,7 +21,6 @@ Vector resolverGauss(Matrix A, Vector b) {
             b[i] -= m * b[k];
         }
     }
-
     // Sustitución hacia atrás
     Vector x(n, 0.0);
     for (int i = int(n) - 1; i >= 0; --i) {
