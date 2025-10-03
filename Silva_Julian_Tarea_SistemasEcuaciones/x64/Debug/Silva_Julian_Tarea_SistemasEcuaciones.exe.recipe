@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< Updated upstream
       <FullPath>D:\julian\Resolucion-de-sistemas-de-ecuaciones\x64\Debug\Silva_Julian_Tarea_SistemasEcuaciones.exe</FullPath>
+=======
+      <FullPath>C:\Users\lolop\Documents\GitHub\Resolucion-de-sistemas-de-ecuaciones\x64\Debug\Silva_Julian_Tarea_SistemasEcuaciones.exe</FullPath>
+>>>>>>> Stashed changes
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

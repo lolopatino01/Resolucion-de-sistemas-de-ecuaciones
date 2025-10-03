@@ -56,7 +56,7 @@ void ejecutarAutomatico() {
             if (!(cin >> b[i])) throw invalid_argument("Entrada invalida en termino independiente.");
         }
         // Abrimos archivo para guardar resultados
-        ofstream archivo("D:/julian/resultados.txt", ios::app);
+        ofstream archivo("C:/Users/lolop/Documents/GitHub/Resolucion-de-sistemas-de-ecuaciones/resultados.txt", ios::app);
         if (!archivo) throw runtime_error("No se pudo abrir el archivo de resultados.");
         // Selección automática
         if (nEq == 3) {

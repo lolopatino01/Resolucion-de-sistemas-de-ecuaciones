@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\",
   "Documents": [
     {
@@ -29,6 +30,29 @@
     {
       "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\sarrus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\sarrus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C49A54-6367-4E0E-8C18-07C08BBA0A25}|Silva_Julian_Tarea_SistemasEcuaciones\\Silva_Julian_Tarea_SistemasEcuaciones.vcxproj|solutionrelative:Silva_Julian_Tarea_SistemasEcuaciones\\laplace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -38,6 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -51,11 +76,27 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-03T13:51:13.755Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laplace.cpp",
+              "DocumentMoniker": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
+              "ToolTip": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T13:29:44.629Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "sarrus.cpp",
               "DocumentMoniker": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\sarrus.cpp",
               "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\sarrus.cpp",
@@ -64,10 +105,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-03T13:47:26.139Z",
+=======
+              "Title": "ejecutarAutomatico.cpp",
+              "DocumentMoniker": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp",
+              "ToolTip": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T13:20:41.208Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 6,
               "Title": "ejecutarAutomatico.h",
               "DocumentMoniker": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\ejecutarAutomatico.h",
@@ -77,11 +129,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-03T13:35:55.06Z",
+=======
+              "DocumentIndex": 3,
+              "Title": "sarrus.h",
+              "DocumentMoniker": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\sarrus.h",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\sarrus.h",
+              "ToolTip": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\sarrus.h",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\sarrus.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-03T13:20:35.225Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< Updated upstream
               "Title": "gauss.cpp",
               "DocumentMoniker": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\gauss.cpp",
               "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\gauss.cpp",
@@ -103,11 +167,22 @@
               "ViewState": "AgIAAGYAAAAAAAAAAAAAAIkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-03T13:16:19.834Z",
+=======
+              "Title": "laplace.h",
+              "DocumentMoniker": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.h",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\laplace.h",
+              "ToolTip": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.h",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\laplace.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-03T13:20:31.925Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
               "Title": "laplace.cpp",
               "DocumentMoniker": "D:\\julian\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
               "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\laplace.cpp",
@@ -129,6 +204,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-03T13:12:12.883Z",
+=======
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp",
+              "RelativeDocumentMoniker": "Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp",
+              "ToolTip": "C:\\Users\\lolop\\Documents\\GitHub\\Resolucion-de-sistemas-de-ecuaciones\\Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp",
+              "RelativeToolTip": "Silva_Julian_Tarea_SistemasEcuaciones\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T12:44:06.129Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]
