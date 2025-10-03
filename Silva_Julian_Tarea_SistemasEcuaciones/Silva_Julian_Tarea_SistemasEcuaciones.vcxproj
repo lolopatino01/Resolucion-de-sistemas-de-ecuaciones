@@ -124,7 +124,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ejecutarAutomatico.cpp" />
-    <ClCompile Include="gauss.cpp" />
+    <ClCompile Include="gauss.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp17</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="laplace.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="sarrus.cpp" />
